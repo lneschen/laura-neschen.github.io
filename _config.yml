@@ -29,7 +29,7 @@ author:
   location         : "Grenoble, France"
   employer         : "Inria"
   uri              : # URL
-  email            : #"" 
+  email            : "laura.neschen@inria.fr" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "lneschen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : laura-neschen-756562227
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
